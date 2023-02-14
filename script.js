@@ -1,5 +1,5 @@
 var botao = document.getElementById("btn");
 
-botao.oclick = function(){
+botao.onclick = function(){
     alert("BET365");
 }
