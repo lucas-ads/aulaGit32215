@@ -5,3 +5,5 @@ botao.onclick = function(){
 }
 
 console.log("Hello World");
+
+Teste
